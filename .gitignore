@@ -1,0 +1,5 @@
+renv/
+
+.Rhistory
+.RData
+Code.Rproj
