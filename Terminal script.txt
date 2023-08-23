@@ -1,6 +1,6 @@
 Run Pipeline
-source "C:\Users\steph\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
-source "C:\Users\snichanian\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
+source "C:\Users\steph\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code\Pipeline.sh"
+source "C:\Users\snichanian\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code\Pipeline.sh"
 
 Git:
 cd "C:\Users\steph\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
