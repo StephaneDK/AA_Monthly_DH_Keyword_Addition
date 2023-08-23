@@ -1,0 +1,9 @@
+Run Pipeline
+source "C:\Users\steph\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
+source "C:\Users\snichanian\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
+
+Git:
+cd "C:\Users\steph\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
+cd "C:\Users\snichanian\Documents\DK\Work\Forecasting book sales and inventory\Auxilary tasks\Amazon Advertisment\Keyword Addition\Monthly\Code"
+
+
